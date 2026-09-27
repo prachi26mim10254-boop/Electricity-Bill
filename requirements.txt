@@ -1,0 +1,4 @@
+# Python Essentials Academic Project: Electricity Bill Calculator
+# This project uses ONLY the Python Standard Library.
+# No external third-party libraries or packages are required.
+# Compatible with Python 3.8+
